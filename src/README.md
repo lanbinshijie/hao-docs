@@ -1,110 +1,41 @@
 ---
 home: true
 icon: home
-title: Project home
-heroImage: /logo.svg
-heroText: Project name
-tagline: You can place the description of the project here.
+title: 首页
+heroImage: /logo.png
+heroText: Halo-Theme-Hao
+tagline: Halo-Theme-Hao 是一款适用于 Halo2.x 的博客主题，移植自 Hexo 社区中 张洪Heo 对 Hexo-Theme-Butterfly 主题的魔改版本
 actions:
-  - text: How to Use 💡
-    link: /demo/
+  - text: 快速上手 💡
+    link: /tutorial/
     type: primary
 
   - text: Docs
-    link: /guide/
+    link: /tutorial/
 
 features:
-  - title: Markdown Enhance
-    icon: markdown
-    details: Add align, sup/sub script, footnote, tasklist, tex, flowchart, diagram, mark and presentation support in markdown
-    link: https://theme-hope.vuejs.press/guide/markdown/
+  - title: 免费开源
+    icon: code
+    details: Hao 主题完全免费且开源，并由众多开发者参与研发与维护。
+    link: https://github.com/liuzhihang/halo-theme-hao
 
-  - title: Slide page
-    icon: slides
-    details: Adding slide pages to display things you like
-    link: https://theme-hope.vuejs.press/guide/layout/slides.html
-
-  - title: Layout enhancement
-    icon: layout
-    details: Adding breadcrumb, footer, improved navbar, improved page nav and etc.
-    link: https://theme-hope.vuejs.press/guide/layout/
-
-  - title: Pageviews and comments
-    icon: comment
-    details: Start pageview statistics and comment support with Waline
-    link: https://theme-hope.vuejs.press/guide/feature/comment.html
-
-  - title: Article information
-    icon: info
-    details: Add author, writing date, reading time, word count and other information to your article
-    link: https://theme-hope.vuejs.press/guide/feature/page-info.html
-
-  - title: Blog support
-    icon: blog
-    details: Listing your articles with their dates, tags and categories with some awesome layouts
-    link: https://theme-hope.vuejs.press/guide/blog/
-
-  - title: Custom theme color
-    icon: palette
-    details: Supports custom theme colors and allows users to switch between preset theme colors
-    link: https://theme-hope.vuejs.press/guide/interface/theme-color.html
-
-  - title: Dark Mode
-    icon: contrast
-    details: Switch between light and dark modes freely
-    link: https://theme-hope.vuejs.press/guide/interface/darkmode.html
-
-  - title: Full A11y support
-    icon: support
-    details: Full support of accessibility in your site
-    link: https://theme-hope.vuejs.press/guide/interface/accessibility.html
-
-  - title: Article Encryption
-    icon: lock
-    details: Encrypt you articles based on page links, so that only the one you want could see them
-    link: https://theme-hope.vuejs.press/guide/feature/encrypt.html
-
-  - title: Copy button
+  - title: 简单易用
     icon: copy
-    details: Copy codes with one click in code blocks
-    link: https://theme-hope.vuejs.press/guide/feature/copy-code.html
+    details: 在 GitHub 仓库中下载 Hao 主题，将其上传至 Halo 2.x 后台，即可使用。
+    link: https://docs.halo.run/user-guide/themes
 
-  - title: Image preview
-    icon: pic
-    details: Support viewing, zooming, sharing your page images like a gallery
-    link: https://theme-hope.vuejs.press/guide/feature/photo-swipe.html
+  - title: 设计精美
+    icon: palette
+    details: 主题 UX/UI 由专业设计师 张洪Heo 设计研发，并在 Hexo 社区中广受好评。
+    link: https://blog.zhheo.com/
 
-  - title: SEO enhancement
-    icon: config
-    details: Optimize pages for search engines
-    link: https://theme-hope.vuejs.press/guide/advanced/seo.html
-
-  - title: Sitemap
-    icon: sitemap
-    details: Generate a Sitemap for your site
-    link: https://theme-hope.vuejs.press/guide/advanced/sitemap.html
-
-  - title: Feed support
-    icon: rss
-    details: Generate feed to allow users to subscribe it
-    link: https://theme-hope.vuejs.press/guide/advanced/feed.html
-
-  - title: PWA support
+  - title: 功能丰富
     icon: mobile
-    details: Make your site more like an APP
-    link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
+    details: 得益于 Halo2.x 框架及其生态，主题中的众多功能配置简单，丰富齐全，即插即用，灵活优雅。
+    link: https://github.com/halo-sigs/awesome-halo
 
-  - title: More new features
-    icon: more
-    details: Including icon support, fullscreen button, etc.
-    link: https://theme-hope.vuejs.press/guide/feature/
-
-copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
+copyright:
+footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2022-present Mr.Hope
 ---
 
 This is an example of a project homepage. You can place your main content here.
-
-To use this layout, you need to set `home: true` in the page front matter.
-
-For related descriptions of configuration items, please see [Project HomePage Layout Config](https://theme-hope.vuejs.press/guide/layout/home/).

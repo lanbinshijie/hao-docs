@@ -5,18 +5,18 @@ export const pagesComponents = {
   "v-8daa1a0e": defineAsyncComponent(() => import(/* webpackChunkName: "v-8daa1a0e" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/index.html.vue")),
   // path: /slides.html
   "v-2e3eac9e": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e3eac9e" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/slides.html.vue")),
-  // path: /demo/disable.html
-  "v-4e65ec78": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e65ec78" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/disable.html.vue")),
-  // path: /demo/encrypt.html
-  "v-c151bf32": defineAsyncComponent(() => import(/* webpackChunkName: "v-c151bf32" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/encrypt.html.vue")),
-  // path: /demo/markdown.html
-  "v-438ffe52": defineAsyncComponent(() => import(/* webpackChunkName: "v-438ffe52" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/markdown.html.vue")),
-  // path: /demo/page.html
-  "v-6e19edb7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e19edb7" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/page.html.vue")),
-  // path: /demo/
-  "v-1473bf53": defineAsyncComponent(() => import(/* webpackChunkName: "v-1473bf53" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/index.html.vue")),
   // path: /guide/
   "v-fffb8e28": defineAsyncComponent(() => import(/* webpackChunkName: "v-fffb8e28" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/guide/index.html.vue")),
+  // path: /tutorial/disable.html
+  "v-190e70a9": defineAsyncComponent(() => import(/* webpackChunkName: "v-190e70a9" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/disable.html.vue")),
+  // path: /tutorial/encrypt.html
+  "v-40cef168": defineAsyncComponent(() => import(/* webpackChunkName: "v-40cef168" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/encrypt.html.vue")),
+  // path: /tutorial/markdown.html
+  "v-b3b912dc": defineAsyncComponent(() => import(/* webpackChunkName: "v-b3b912dc" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/markdown.html.vue")),
+  // path: /tutorial/page.html
+  "v-2ef90e1c": defineAsyncComponent(() => import(/* webpackChunkName: "v-2ef90e1c" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/page.html.vue")),
+  // path: /tutorial/
+  "v-639495b8": defineAsyncComponent(() => import(/* webpackChunkName: "v-639495b8" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/index.html.vue")),
   // path: /guide/bar/baz.html
   "v-177e1f06": defineAsyncComponent(() => import(/* webpackChunkName: "v-177e1f06" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/guide/bar/baz.html.vue")),
   // path: /guide/bar/

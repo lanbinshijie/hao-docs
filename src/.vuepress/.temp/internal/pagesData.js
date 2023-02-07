@@ -3,18 +3,18 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /slides.html
   "v-2e3eac9e": () => import(/* webpackChunkName: "v-2e3eac9e" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/slides.html.js").then(({ data }) => data),
-  // path: /demo/disable.html
-  "v-4e65ec78": () => import(/* webpackChunkName: "v-4e65ec78" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/disable.html.js").then(({ data }) => data),
-  // path: /demo/encrypt.html
-  "v-c151bf32": () => import(/* webpackChunkName: "v-c151bf32" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/encrypt.html.js").then(({ data }) => data),
-  // path: /demo/markdown.html
-  "v-438ffe52": () => import(/* webpackChunkName: "v-438ffe52" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/markdown.html.js").then(({ data }) => data),
-  // path: /demo/page.html
-  "v-6e19edb7": () => import(/* webpackChunkName: "v-6e19edb7" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/page.html.js").then(({ data }) => data),
-  // path: /demo/
-  "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
   // path: /guide/
   "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
+  // path: /tutorial/disable.html
+  "v-190e70a9": () => import(/* webpackChunkName: "v-190e70a9" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/disable.html.js").then(({ data }) => data),
+  // path: /tutorial/encrypt.html
+  "v-40cef168": () => import(/* webpackChunkName: "v-40cef168" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/encrypt.html.js").then(({ data }) => data),
+  // path: /tutorial/markdown.html
+  "v-b3b912dc": () => import(/* webpackChunkName: "v-b3b912dc" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/markdown.html.js").then(({ data }) => data),
+  // path: /tutorial/page.html
+  "v-2ef90e1c": () => import(/* webpackChunkName: "v-2ef90e1c" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/page.html.js").then(({ data }) => data),
+  // path: /tutorial/
+  "v-639495b8": () => import(/* webpackChunkName: "v-639495b8" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/tutorial/index.html.js").then(({ data }) => data),
   // path: /guide/bar/baz.html
   "v-177e1f06": () => import(/* webpackChunkName: "v-177e1f06" */"I:/Desktop/Halo-Theme-Hao-Docs/src/.vuepress/.temp/pages/guide/bar/baz.html.js").then(({ data }) => data),
   // path: /guide/bar/

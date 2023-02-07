@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/logo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -80,14 +80,14 @@ export default hopeTheme({
       /**
        * Using Twikoo
        */
-      // provider: "Twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
+      provider: "Twikoo",
+      envId: "https://vercel.sunguoqi.com/",
 
       /**
        * Using Waline
        */
-      provider: "Waline",
-      serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      // provider: "Waline",
+      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
 
       /**
        * Using artalk
