@@ -6,7 +6,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
+    name: "小孙同学",
     url: "https://mrhope.site",
   },
 
@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/sun0225SUN/Halo-Theme-Hao-Docs",
 
   docsDir: "demo/theme-docs/src",
 
@@ -80,14 +80,14 @@ export default hopeTheme({
       /**
        * Using Twikoo
        */
-      provider: "Twikoo",
-      envId: "https://vercel.sunguoqi.com/",
+      // provider: "Twikoo",
+      // envId: "https://vercel.sunguoqi.com/",
 
       /**
        * Using Waline
        */
-      // provider: "Waline",
-      // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
+      provider: "Waline",
+      serverURL: "https://docs-waline.vercel.sunguoqi.com/",
 
       /**
        * Using artalk

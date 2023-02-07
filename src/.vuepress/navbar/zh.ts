@@ -9,13 +9,13 @@ export const zhNavbar = navbar([
     prefix: "/zh/guide/",
     children: [
       {
-        text: "Bar",
+        text: "666",
         icon: "creative",
         prefix: "bar/",
         children: ["baz", { text: "...", icon: "more", link: "" }],
       },
       {
-        text: "Foo",
+        text: "777",
         icon: "config",
         prefix: "foo/",
         children: ["ray", { text: "...", icon: "more", link: "" }],

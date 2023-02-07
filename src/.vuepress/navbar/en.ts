@@ -8,18 +8,18 @@ export const enNavbar = navbar([
     link: "/tutorial/"
   },
   {
-    text: "Guide",
+    text: "开发文档",
     icon: "creative",
     prefix: "/guide/",
     children: [
       {
-        text: "Bar",
+        text: "666",
         icon: "creative",
         prefix: "bar/",
         children: ["baz", { text: "...", icon: "more", link: "" }],
       },
       {
-        text: "Foo",
+        text: "777",
         icon: "config",
         prefix: "foo/",
         children: ["ray", { text: "...", icon: "more", link: "" }],
@@ -27,8 +27,8 @@ export const enNavbar = navbar([
     ],
   },
   {
-    text: "V2 Docs",
-    icon: "",
-    link: "https://theme-hope.vuejs.press/",
+    text: "常见问题",
+    icon: "note",
+    link: "/666/",
   },
 ]);

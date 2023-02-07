@@ -8,7 +8,7 @@ export const pagesRoutes = [
   ["v-2ef90e1c","/tutorial/page.html",{"y":"a","t":"Page Config","i":"page","I":1},["/tutorial/page","/tutorial/page.md"]],
   ["v-639495b8","/tutorial/",{"y":"a","t":"Halo-Theme-Hao","i":"discover","I":1},["/tutorial/index.html","/tutorial/README.md"]],
   ["v-177e1f06","/guide/bar/baz.html",{"y":"a","t":"Baz","i":"info","I":1},["/guide/bar/baz","/guide/bar/baz.md"]],
-  ["v-5d5c2d30","/guide/bar/",{"y":"a","t":"Bar feature","i":"creative","I":1},["/guide/bar/index.html","/guide/bar/README.md"]],
+  ["v-5d5c2d30","/guide/bar/",{"y":"a","t":"Bar feature666","i":"creative","I":1},["/guide/bar/index.html","/guide/bar/README.md"]],
   ["v-0b6fc5f8","/guide/foo/ray.html",{"y":"a","t":"Ray","i":"config","I":1},["/guide/foo/ray","/guide/foo/ray.md"]],
   ["v-5d5821d6","/guide/foo/",{"y":"a","t":"Foo feature","i":"config","I":1},["/guide/foo/index.html","/guide/foo/README.md"]],
   ["v-3706649a","/404.html",{"y":"p","t":"","I":1},["/404"]],

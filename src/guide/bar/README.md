@@ -1,5 +1,5 @@
 ---
-title: Bar feature
+title: Bar feature666
 icon: creative
 ---
 
