@@ -1,0 +1,1 @@
+export const siteData = JSON.parse("{\"base\":\"/Halo-Theme-Hao-Docs/\",\"lang\":\"en-US\",\"title\":\"\",\"description\":\"\",\"head\":[],\"locales\":{\"/\":{\"lang\":\"zh-CN\",\"title\":\"文档演示\",\"description\":\"vuepress-theme-hope 的文档演示\"}}}")
