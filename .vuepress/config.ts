@@ -7,6 +7,7 @@ export default defineUserConfig({
   description: "一款精美的 Halo2.x 主题",
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   base: "/hao-docs/",
+  lang: "zh-CN",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
