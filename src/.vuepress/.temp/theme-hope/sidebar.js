@@ -1,1 +1,0 @@
-export const sidebarData = {"/demo/":[],"/guide/":["",{"text":"Bar feature666","prefix":"bar/","collapsible":true,"icon":"creative","children":["","baz"]},{"text":"Foo feature","prefix":"foo/","collapsible":true,"icon":"config","children":["","ray"]}]};
