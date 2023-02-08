@@ -5,7 +5,7 @@ import recoTheme from "vuepress-theme-reco";
 export default defineUserConfig({
   title: "Hao",
   description: "一款精美的 Halo2.x 主题",
-  head: [['link', { rel: 'icon', href: '/logo.png' }]],
+  head: [['link', { rel: 'icon', href: '/hao-docs/logo.png' }]],
   base: "/hao-docs/",
   lang: "zh-CN",
   theme: recoTheme({
@@ -85,7 +85,7 @@ export default defineUserConfig({
           children: [
             {
               text: "打赏",
-              link: "/docs/donate.html",
+              link: "/hao-docs/docs/donate.html",
             },
           ],
         },
@@ -94,8 +94,8 @@ export default defineUserConfig({
     commentConfig: {
       type: 'valine',
       options: {
-        appId: 'ZKdRnwsC5Nfud3DxLLQqAhxx-MdYXbMMI', // your appId
-        appKey: 'FeEeDIYxFsC4vuntQ9jD8MSl', // your appKey
+        appId: '', // your appId
+        appKey: '', // your appKey
         hideComments: false, // 全局隐藏评论，默认 false
       },
     },
