@@ -5,6 +5,7 @@ import recoTheme from "vuepress-theme-reco";
 export default defineUserConfig({
   title: "Hao",
   description: "一款精美的 Halo2.x 主题",
+  base: "/hao-docs/",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
     logo: "/logo.png",
