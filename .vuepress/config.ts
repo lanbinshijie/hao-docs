@@ -16,7 +16,7 @@ export default defineUserConfig({
     docsRepo: "https://github.com/sun0225SUN/hao-docs.git",
     docsBranch: "main",
     docsDir: "example",
-    lastUpdatedText: "最后更新时间'",
+    lastUpdatedText: "最后更新时间",
     // series 为原 sidebar
     
     series: {
@@ -91,20 +91,20 @@ export default defineUserConfig({
         },
       ],
     },
-    commentConfig: {
-      type: 'valine',
-      options: {
-        appId: '', // your appId
-        appKey: '', // your appKey
-        hideComments: false, // 全局隐藏评论，默认 false
-      },
-    },
     // commentConfig: {
-    //   type: 'waline',
+    //   type: 'valine',
     //   options: {
-    //     serverUrl: 'https://docs-waline.vercel.sunguoqi.com/',
+    //     appId: '', // your appId
+    //     appKey: '', // your appKey
+    //     hideComments: false, // 全局隐藏评论，默认 false
     //   },
     // },
+    commentConfig: {
+      type: 'waline',
+      options: {
+        serverUrl: 'https://docs-waline.vercel.sunguoqi.com/',
+      },
+    },
   }),
   // debug: true,
 });
