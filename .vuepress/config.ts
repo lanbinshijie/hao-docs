@@ -5,8 +5,7 @@ import recoTheme from "vuepress-theme-reco";
 export default defineUserConfig({
   title: "Halo-Theme-Hao",
   description: "一款精美的 Halo2.x 主题",
-  head: [['link', { rel: 'icon', href: '/hao-docs/logo.png' }]],
-//   base: "/hao-docs/",
+  head: [['link', { rel: 'icon', href: '/logo.png' }]],
   lang: "zh-CN",
   theme: recoTheme({
     style: "@vuepress-reco/style-default",
@@ -15,10 +14,8 @@ export default defineUserConfig({
     authorAvatar: "/logo.png",
     docsRepo: "https://github.com/sun0225SUN/hao-docs.git",
     docsBranch: "main",
-    docsDir: "example",
+    docsDir: "/.vuepress/dist",
     lastUpdatedText: "最后更新时间",
-    // series 为原 sidebar
-    
     series: {
       "/docs/guide/": [
         {
@@ -85,7 +82,7 @@ export default defineUserConfig({
           children: [
             {
               text: "打赏",
-              link: "/hao-docs/docs/donate.html",
+              link: "/docs/donate.html",
             },
           ],
         },
