@@ -18,10 +18,7 @@ bannerBrand:
         icon: "LogoWechat",
         link: "https://liuzhihang.com/themes/theme-hao/assets/images/wechat/wechat1.png",
       }
-    - {
-        icon: "LogoGithub",
-        link: "https://github.com/liuzhihang/halo-theme-hao",
-      }
+    - { icon: "LogoGithub", link: "https://github.com/sun0225SUN/hao-docs" }
 footer: # 底部模块的配置
   record: 京ICP备20000888号
   recordLink: https://beian.miit.gov.cn/

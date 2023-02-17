@@ -12,9 +12,6 @@ export default defineUserConfig({
     logo: "/logo.png",
     author: "程序员小航",
     authorAvatar: "/logo.png",
-    docsRepo: "https://github.com/sun0225SUN/hao-docs.git",
-    docsBranch: "main",
-    docsDir: "/.vuepress/dist",
     lastUpdatedText: "最后更新时间",
     series: {
       "/docs/guide/": [
@@ -34,14 +31,6 @@ export default defineUserConfig({
       { text: "常见问题", icon: 'Help', link: "/docs/question" },
       { text: "留言反馈", icon: 'Chat', link: "/docs/comments" },
       { text: "站点示例", icon: 'Events', link: "/docs/example" },
-      // {
-      //   text: "文档",
-      //   children: [
-      //     { text: "快速开始", link: "/docs/theme-reco/theme" },
-      //     { text: "主题配置", link: "/blogs/other/guide" },
-      //     { text: "开发文档", link: "/blogs/other/guide" },
-      //   ],
-      // },
     ],
     bulletin: {
       body: [
