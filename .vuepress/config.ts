@@ -78,9 +78,13 @@ export default defineUserConfig({
       ],
     },
     commentConfig: {
-      type: 'waline',
+      type: 'giscus',
       options: {
-        serverURL: 'https://docs-waline.vercel.sunguoqi.com/',
+        repo: 'sun0225SUN/hao-docs',
+        repoId: 'R_kgDOI66UKw',
+        category: 'Q&A',
+        categoryId: 'DIC_kwDOI66UK84CWgyk',
+        mapping: 'title',
       },
     },
   }),
