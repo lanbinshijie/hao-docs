@@ -26,8 +26,9 @@ export default defineUserConfig({
       ],
     },
     navbar: [
-      { text: "首页", icon: 'Home', link: "/" },
-      { text: "文档", icon: 'Document', link: "/docs/guide/introduce" },
+      { text: "首页", icon: 'Home', link: "/index.html" },
+      { text: "使用文档", icon: 'Document', link: "/docs/guide/introduce" },
+      { text: "开发文档", icon: 'Code', link: "/docs/dev/dev" },
       { text: "常见问题", icon: 'Help', link: "/docs/question" },
       { text: "留言反馈", icon: 'Chat', link: "/docs/comments" },
       { text: "站点示例", icon: 'Events', link: "/docs/example" },
