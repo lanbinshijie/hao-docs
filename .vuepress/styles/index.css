@@ -6,6 +6,7 @@
     display: none!important;
 }
 
-.theme-reco-default-content{
-    display: none!important;
+.theme-container .theme-reco-default-content{
+    margin-bottom: 0 !important;
+    border-top: 0 solid transparent !important;
 }
