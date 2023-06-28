@@ -12,9 +12,9 @@
 
 文档由 Vuepress + Vercel 构建
 
-git commit 信息 可以参考该网站加个相应的 emoji 😙
-
 [https://gitmoji.dev/](https://gitmoji.dev/)
+
+git commit 信息 可以参考该网站加个相应的 emoji 😙
 
 ## 为爱发电
 
