@@ -24,6 +24,16 @@ export default defineUserConfig({
           children: ["setting"],
         },
       ],
+      "/docs/dev/": [
+        {
+          text: "开始",
+          children: ["dev"],
+        },
+        // {
+        //   text: "配置文档",
+        //   children: ["setting"],
+        // },
+      ],
     },
     navbar: [
       { text: "首页", icon: 'Home', link: "/index.html" },
