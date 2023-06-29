@@ -62,22 +62,6 @@ export default defineUserConfig({
           type: "hr",
         },
         {
-          type: "title",
-          content: "GitHub",
-        },
-        {
-          type: "text",
-          content: `
-          <ul>
-            <li><a href="https://github.com/liuzhihang/halo-theme-hao/issues">Issues<a/></li>
-            <li><a href="https://github.com/liuzhihang/halo-theme-hao/discussions">Discussions<a/></li>
-          </ul>`,
-          style: "font-size: 12px;",
-        },
-        {
-          type: "hr",
-        },
-        {
           type: "buttongroup",
           children: [
             {
