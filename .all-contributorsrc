@@ -12,7 +12,7 @@
     }
   ],
   "files": [
-    "README.md"
+    "./.github/README.md"
   ],
   "repoType": "github",
   "repoHost": "https://github.com",
