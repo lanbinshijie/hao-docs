@@ -10,7 +10,7 @@
 
 ## 参与贡献
 
-文档由 Vuepress + Vercel 构建
+文档由 [Vuepress](https://vuepress.vuejs.org/) + [Vercel](https://vercel.com/) 构建
 
 [https://gitmoji.dev/](https://gitmoji.dev/)
 
