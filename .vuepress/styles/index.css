@@ -1,12 +1,17 @@
 .search-box{
-    display: none!important;
+    display: none;
 }
 
 .footer-wrapper{
-    display: none!important;
+    display: none;
 }
 
 .theme-container .theme-reco-default-content{
-    margin-bottom: 0 !important;
-    border-top: 0 solid transparent !important;
+    margin-bottom: 0;
+    border-top: 0 solid transparent;
+}
+
+.bulletin-wrapper {
+    top: 8rem;
+    max-height: 600px;
 }
