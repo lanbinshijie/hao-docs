@@ -10,11 +10,9 @@
 
 ## 参与贡献
 
-文档由 [Vuepress](https://vuepress.vuejs.org/) + [Vercel](https://vercel.com/) 构建
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)) :)
 
-[https://gitmoji.dev/](https://gitmoji.dev/)
-
-git commit 信息 可以参考该网站加个相应的 emoji 😙
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -41,6 +39,10 @@ git commit 信息 可以参考该网站加个相应的 emoji 😙
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+> 文档由 [Vuepress](https://vuepress.vuejs.org/) + [Vercel](https://vercel.com/) 构建
+> 
+> [https://gitmoji.dev/](https://gitmoji.dev/) git commit 信息 可以参考该网站加个相应的 emoji 😙
 
 ## 为爱发电
 
