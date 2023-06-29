@@ -22,6 +22,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
     <tr>
       <td align="center" valign="top" width="16.66%"><a href="https://blog.sunguoqi.com"><img src="https://avatars.githubusercontent.com/u/79169717?v=4?s=100" width="100px;" alt="小孙同学"/><br /><sub><b>小孙同学</b></sub></a><br /><a href="https://github.com/sun0225SUN/hao-docs/commits?author=sun0225SUN" title="Code">💻</a></td>
       <td align="center" valign="top" width="16.66%"><a href="https://blog.coderkang.top"><img src="https://avatars.githubusercontent.com/u/61106285?v=4?s=100" width="100px;" alt="Kang"/><br /><sub><b>Kang</b></sub></a><br /><a href="https://github.com/sun0225SUN/hao-docs/commits?author=flipped-1121" title="Code">💻</a></td>
+      <td align="center" valign="top" width="16.66%"><a href="https://shyblog.world/"><img src="https://avatars.githubusercontent.com/u/50973219?v=4?s=100" width="100px;" alt="sunheyi"/><br /><sub><b>sunheyi</b></sub></a><br /><a href="https://github.com/sun0225SUN/hao-docs/commits?author=shy-share" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
