@@ -41,7 +41,7 @@ export default defineUserConfig({
       { text: "开发文档", icon: 'Code', link: "/docs/dev/dev" },
       { text: "常见问题", icon: 'Help', link: "/docs/question" },
       { text: "留言反馈", icon: 'Chat', link: "/docs/comments" },
-      { text: "站点示例", icon: 'Events', link: "/docs/example" },
+      { text: "站点示例", icon: 'Events', link: "/docs/examples" },
     ],
     bulletin: {
       body: [

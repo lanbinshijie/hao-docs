@@ -2,11 +2,6 @@
 title: 开发
 date: 2023/06/28
 ---
-
----
-title: 开发
-date: 2023/06/28
----
 # 环境搭建
 ## 部署 Halo2.0
 使用 [Docker](https://docs.halo.run/2.7.0-SNAPSHOT/getting-started/install/docker/) 部署
