@@ -17,7 +17,7 @@ export default defineUserConfig({
       "/docs/guide/": [
         {
           text: "开始",
-          children: ["introduction","quick-start"],
+          children: ["introduction","install"],
           collapsible: false
         },
         {
