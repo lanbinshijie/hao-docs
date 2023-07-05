@@ -10,7 +10,7 @@ bannerBrand:
   description: 一款精美的 Halo2.x 博客主题
   tagline: 移植自 Hexo 社区中 张洪Heo 对 Hexo-Theme-Butterfly 主题的魔改
   buttons:
-    - { text: 快速上手, link: "/docs/guide/introduce.html" }
+    - { text: 快速上手, link: "/docs/guide/introduction.html" }
     - { text: 安装, link: "/docs/guide/quick-start.html", type: "plain" }
   socialLinks:
     - { icon: "Home", link: "https://liuzhihang.com" }
