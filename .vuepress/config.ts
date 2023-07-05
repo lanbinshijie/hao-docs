@@ -3,7 +3,7 @@ import type { DefaultThemeOptions } from "vuepress";
 import recoTheme from "vuepress-theme-reco";
 
 export default defineUserConfig({
-  title: "Halo-Theme-Hao",
+  title: "Hao-Docs",
   description: "一款精美的 Halo2.x 主题",
   head: [['link', { rel: 'icon', href: '/logo.png' }]],
   lang: "zh-CN",
@@ -17,31 +17,29 @@ export default defineUserConfig({
       "/docs/guide/": [
         {
           text: "开始",
-          children: ["introduce","quick-start"],
+          children: ["introduction","quick-start"],
+          collapsible: false
         },
         {
-          text: "配置文档",
-          children: ["setting"],
-        },
+          text: "主题配置",
+          children: ["base","navigation","top","layout","sidebar","footer","article","categories","summary","about","comments","moments"],
+          collapsible: false
+        }
       ],
       "/docs/dev/": [
         {
           text: "开始",
           children: ["dev"],
         },
-        // {
-        //   text: "配置文档",
-        //   children: ["setting"],
-        // },
       ],
     },
     navbar: [
       { text: "首页", icon: 'Home', link: "/index.html" },
-      { text: "使用文档", icon: 'Document', link: "/docs/guide/introduce" },
+      { text: "使用文档", icon: 'Document', link: "/docs/guide/introduction" },
       { text: "开发文档", icon: 'Code', link: "/docs/dev/dev" },
-      { text: "常见问题", icon: 'Help', link: "/docs/question" },
-      { text: "留言反馈", icon: 'Chat', link: "/docs/comments" },
-      { text: "站点示例", icon: 'Events', link: "/docs/examples" },
+      { text: "常见问题", icon: 'Help', link: "/docs/others/question" },
+      { text: "留言反馈", icon: 'Chat', link: "/docs/others/comments" },
+      { text: "站点示例", icon: 'Events', link: "/docs/others/examples" },
     ],
     bulletin: {
       body: [
@@ -66,7 +64,7 @@ export default defineUserConfig({
           children: [
             {
               text: "打赏",
-              link: "/docs/donate.html",
+              link: "/docs/others/donate.html",
             },
           ],
         },
