@@ -1,17 +1,27 @@
+/* 隐藏搜索按钮，因为暂时没配置搜索 */
 .search-box{
     display: none;
 }
 
+/* 隐藏底部信息 */
 .footer-wrapper{
     display: none;
 }
 
+/* 修改容器布局，主要是为了修改首页样式 */
 .theme-container .theme-reco-default-content{
     margin-bottom: 0 !important;
     border-top: 0 solid transparent !important;
 }
 
+/* 公告栏高度调整，为了适应移动设备 */
 .bulletin-wrapper {
     top: 8rem;
     max-height: 600px;
+}
+
+/* 图片样式 */
+img {
+    margin-top: 5px;
+    border-radius: 10px;
 }

@@ -2,6 +2,10 @@ import { defineUserConfig } from "vuepress";
 import type { DefaultThemeOptions } from "vuepress";
 import recoTheme from "vuepress-theme-reco";
 
+import { getDirname, path } from '@vuepress/utils'
+
+const __dirname = getDirname(import.meta.url)
+
 export default defineUserConfig({
   title: "Hao-Docs",
   description: "一款精美的 Halo2.x 主题",
@@ -81,5 +85,9 @@ export default defineUserConfig({
       },
     },
   }),
+  // 图片路径别名
+  alias: {
+    '@': path.resolve(__dirname, './public/assets/images'),
+  },
   // debug: true,
 });
