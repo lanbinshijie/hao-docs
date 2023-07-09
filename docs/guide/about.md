@@ -18,8 +18,8 @@ date: 2023/07/05
    ![Snipaste_2023-07-07_18-08-13.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-07_18-08-13.png)
    ![Snipaste_2023-07-07_18-13-37.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-07_18-13-37.png)
 
-4. 开启数字挂件,复制代码到 设置-代码注入-全局head里面
+4. 开启数字挂件
    ![Snipaste_2023-07-07_18-09-30.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-07_18-09-30.png)
-   ![Snipaste_2023-07-07_18-14-05.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-07_18-14-05.png)
+
 # 显示效果
 ![流殃博客个人页面](https://shyblog.oss-cn-beijing.aliyuncs.com/img/about111.png)
