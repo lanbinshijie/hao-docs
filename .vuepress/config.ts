@@ -26,7 +26,7 @@ export default defineUserConfig({
         },
         {
           text: "主题配置",
-          children: ["basics","nav","top","layout","sidebar","footer","article","categories","moment","link","fcircle","about","aboutReward","comments","style","tools","other"],
+          children: ["basics","nav","top","layout","sidebar","footer","article","categories","moment","link","fcircle","about","aboutReward","comments","style","tools","others"],
           collapsible: false
         }
       ],
