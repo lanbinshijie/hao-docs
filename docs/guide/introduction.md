@@ -27,7 +27,7 @@ date: 2023/02/08
 
 ## 网站列表
 
-[点我查看](https://docs.liuzhihang.com/others/examples.html)
+[点我查看](https://docs.liuzhihang.com/docs/others/examples.html)
 
 ## 加入我们
 
