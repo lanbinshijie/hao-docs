@@ -4,11 +4,12 @@ date: 2023/07/05
 ---
 # 关于页面
 1. 新增关于页面
-![](https://cdn.jsdelivr.net/gh/sun0225SUN/hao-docs/assets/images/about1.png)
+   ![Snipaste_2023-07-12_17-11-34.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-12_17-11-34.png)
 2. 主要是这两个设置对就可以了
-![](https://cdn.jsdelivr.net/gh/sun0225SUN/hao-docs/assets/images/about2.png)
+
+   ![Snipaste_2023-07-12_17-12-53.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-12_17-12-53.png)
 3. 在主题个人中进行设置
-![](https://cdn.jsdelivr.net/gh/sun0225SUN/hao-docs/assets/images/about3.png)
+   ![Snipaste_2023-07-12_17-13-14.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-12_17-13-14.png)
 ## 主题设置
 ### 51la统计
 1. 登录51la统计[网站](https://v6.51.la/)
