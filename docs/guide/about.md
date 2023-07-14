@@ -2,7 +2,14 @@
 title: 关于
 date: 2023/07/05
 ---
-# 关于页面
+
+1. 新增关于页面
+   ![Snipaste_2023-07-12_17-11-34.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-12_17-11-34.png)
+2. 主要是这两个设置对就可以了
+
+   ![Snipaste_2023-07-12_17-12-53.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-12_17-12-53.png)
+3. 在主题个人中进行设置
+   ![Snipaste_2023-07-12_17-13-14.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-12_17-13-14.png)
 
 欢迎来到关于页面，从这里我们会开始打造一个属于你的完美的关于页面。
 *开始之前可以前往最下方查看`流殃博客个人页面`查看效果哦~*
@@ -99,8 +106,6 @@ content-idea,authorCareers,personalities-photo,textarea,game,like-music,statisti
 <br> 这些就是创造这个小站的本意，<b>也是我分享生活的方式</b>。有幸能和你相遇在这里，相信我们能共同留下一段美好记忆。</p>
 ```
 
-## 其他设置
-
 ### 51la统计
 1. 登录51la统计[网站](https://v6.51.la/)
 2. 添加应用
@@ -109,8 +114,8 @@ content-idea,authorCareers,personalities-photo,textarea,game,like-music,statisti
    ![Snipaste_2023-07-07_18-08-13.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-07_18-08-13.png)
    ![Snipaste_2023-07-07_18-13-37.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-07_18-13-37.png)
 
-4. 开启数字挂件
+4. 开启数字挂件，将数字挂件最低端代码复制到 设置-代码注入-head里
    ![Snipaste_2023-07-07_18-09-30.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-07_18-09-30.png)
-
+   ![Snipaste_2023-07-07_18-14-05.png](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-07_18-14-05.png)
 # 显示效果
-![流殃博客个人页面](https://shyblog.oss-cn-beijing.aliyuncs.com/img/about111.png)
+![流殃博客个人页面](https://shyblog.oss-cn-beijing.aliyuncs.com/img/Snipaste_2023-07-10_11-43-54.world.png)
